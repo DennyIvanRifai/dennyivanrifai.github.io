@@ -1,0 +1,134 @@
+{
+    "basic_info": {
+      "description_header": "Hi",
+      "description": "👋 I'm Denny Ivan Rifai. I am a bachelor of informatics engineering (GPA 3.85) completed my education in 3.5 years, my passion is Technology and Innovation. I have knowledge and experience in software development, Junior Data Engineer, programming languages ​​such as PHP, Python and JavaScript, with Frameworks such as Laravel and bootstrap and web application development using HTML, CSS, and JavaScript. Thank you 💜",
+      "section_name": {
+        "about": "About me",
+        "projects": "Projects",
+        "skills": "Skills",
+        "experience": "Experience"
+      }
+    },
+    "projects": [
+      {
+        "title": "Blood donation information",
+        "startDate": "2022",
+        "description": "The web application for blood donor information in hospitals aims to simplify the search and management of blood donor data. This allows hospitals to track blood availability, speed up the distribution process, and make it easier for donors to participate, thereby increasing the readiness and security of the blood supply.",
+        "images": [
+          "images/portfolio/animal-shelter/P1.jpg",
+          "images/portfolio/animal-shelter/P2.jpg"
+        ],
+        "url": "",
+        "technologies": [
+
+          {
+            "name": "PHP",
+            "class": "devicon-php-plain",
+            "level": "60"
+          },
+          {
+            "name": "Laravel",
+            "class": "devicon-laravel-plain",
+            "level": "80"
+          },
+          {
+            "name": "MySql",
+            "class": "devicon-mysql-plain",
+            "level": "60"
+          }
+        ]
+      },
+      {
+        "title": "Restaurant",
+        "startDate": "2022",
+        "description": "The web application for restaurant information aims to make it easier for customers to find restaurants, view menus, find out opening hours, locations, and reviews. With this application, users can make reservations, order food, and get the latest information, increasing customer convenience and satisfaction.",
+        "images": [
+          "images/portfolio/photography/P2.jpg",
+          "images/portfolio/photography/P3.jpg"
+        ],
+        "url": "https://github.com",
+        "technologies": [
+          {
+            "name": "MySql",
+            "class": "devicon-mysql-plain",
+            "level": "60"
+          },
+          {
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
+          },
+          {
+            "name": "PHP",
+            "class": "devicon-php-plain",
+            "level": "60"
+          },
+          {
+           "name": "Node.js",
+           "class": "devicon-nodejs-plain",
+           "level": "75"
+          },
+          {
+            "name": "HTML",
+            "class": "devicon-html5-plain",
+            "level": "80"
+          },
+          {
+            "name": "CSS",
+            "class": "devicon-css3-plain",
+            "level": "70"
+          }
+
+        ]
+      },
+      {
+        "title": "Thesis",
+        "startDate": "2024",
+        "description": "Word2Vec implementation for comparison of Skip-Gram and CBOW in TikTok app reviews aims to analyze the differences in word representation. With Skip-Gram, the model predicts context words based on the center word, while CBOW predicts center words based on the context words, allowing for the evaluation of the depth of meaning in reviews.",
+        "images": [
+          "images/portfolio/adventure/P1.jpg",
+          "images/portfolio/adventure/P2.jpg"
+        ],
+        "url": "https://github.com",
+        "technologies": [
+          {
+            "name": "Python",
+            "class": "devicon-python-plain",
+            "level": "60"
+          }
+          
+        ]
+      }
+    ],
+    "experience": [
+      {
+        "company": "Dicoding Academy",
+        "title": "Frond End and Back End Developers ",
+        "years": "August 2022-December 2022 ",
+        "mainTech": [
+          "Value 9/10"
+        ],
+        "technologies": [
+          "HTML",
+          "CSS",
+          "JavaScript",
+          "Express",
+          "Database"
+        ]
+      },
+      {
+        "company": "Metrodata Academy",
+        "title": "Cloud Computing Frameword for Business and Technical",
+        "years": "February 2023-June 2023",
+        "mainTech": [
+          "Value 9/10"
+        ],
+        "technologies": [
+          "Cloud Computing Architecture",
+          "Service models such as IaaS, PaaS, and SaaS",
+          "AWS",
+          "Azure"
+        ]
+      }
+      
+    ]
+  }
